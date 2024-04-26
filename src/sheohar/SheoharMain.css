@@ -1,0 +1,9 @@
+.fitnessimg {
+    
+    background-image: url("https://dailytimes.com.pk/assets/uploads/2019/04/04/fitness.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    
+    overflow: hidden;
+}
