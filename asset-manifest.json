@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Fitness-clint/static/css/main.0df649bf.css",
-    "main.js": "/Fitness-clint/static/js/main.6674a775.js",
+    "main.js": "/Fitness-clint/static/js/main.71f3fb8a.js",
     "static/js/453.fc410882.chunk.js": "/Fitness-clint/static/js/453.fc410882.chunk.js",
     "index.html": "/Fitness-clint/index.html",
     "main.0df649bf.css.map": "/Fitness-clint/static/css/main.0df649bf.css.map",
-    "main.6674a775.js.map": "/Fitness-clint/static/js/main.6674a775.js.map",
+    "main.71f3fb8a.js.map": "/Fitness-clint/static/js/main.71f3fb8a.js.map",
     "453.fc410882.chunk.js.map": "/Fitness-clint/static/js/453.fc410882.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0df649bf.css",
-    "static/js/main.6674a775.js"
+    "static/js/main.71f3fb8a.js"
   ]
 }
