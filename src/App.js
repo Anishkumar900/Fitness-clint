@@ -6,7 +6,7 @@ import SheoharMain from './sheohar/SheoharMain';
 function App() {
   return (
     <>
-    <BrowserRouter>
+    <BrowserRouter basename='/Fitness-clint'>
       <Routes>
         <Route path='/' element={<Main/>}></Route>
         <Route path='/bihar/sheohar' element={<SheoharMain/>}></Route>
