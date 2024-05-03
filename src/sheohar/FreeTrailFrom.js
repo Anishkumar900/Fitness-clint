@@ -2,15 +2,15 @@ import React from 'react'
 
 export default function FreeTrailFrom() {
     return (
-        <div className=' md:flex flex-none gap-16 lg:mx-32 md:-12 mx-2 md:grid-cols-2'>
-            <div className='w-full my-auto '>
+        <div className=' md:flex flex-none gap-16 lg:mx-32 md:-12 mx-2 md:grid-cols-2 '>
+            <div className='w-full my-auto z-0'>
                 <p className='text-3xl font-serif font-bold text-center'>ELEVATE YOUR FITNESS JOURNEY</p>
                 <p className='text-gray-600 hover:underline my-3 text-center'>START YOUR 7-DAY FREE TRIAL</p>
-                <p className='flex gap-10 my-3'>	<ion-icon size="large" color="danger" name="barbell-outline"></ion-icon><samp className='my-auto'>Premium equipment and group fitness classes</samp></p>
-                <p className='flex gap-10 my-3'><ion-icon size="large" color="danger" name="medkit-outline"></ion-icon> <samp>Complimentary health and fitness assessment</samp></p>
-                <p className='flex gap-10 my-3'><ion-icon size="large" color="danger" name="fitness-outline"></ion-icon><samp>Complimentary health and fitness assessment</samp></p>
-                <p className='flex gap-10 my-3'> <ion-icon size="large" color="danger" name="sunny-outline"></ion-icon><samp>Supportive and uplifting community</samp></p>
-                <p className='flex gap-10 my-3'><ion-icon size="large" color="danger" name="home-outline"></ion-icon> <samp>	10 clubs nationwide and over 70 clubs across South East Asia</samp></p>
+                <p className='flex gap-10 my-3 z-0'>	<ion-icon size="large" color="danger" name="barbell-outline"></ion-icon><samp className='my-auto'>Premium equipment and group fitness classes</samp></p>
+                <p className='flex gap-10 my-3 z-0'><ion-icon size="large" color="danger" name="medkit-outline"></ion-icon> <samp>Complimentary health and fitness assessment</samp></p>
+                <p className='flex gap-10 my-3 z-0'><ion-icon size="large" color="danger" name="fitness-outline"></ion-icon><samp>Complimentary health and fitness assessment</samp></p>
+                <p className='flex gap-10 my-3 z-0'> <ion-icon size="large" color="danger" name="sunny-outline"></ion-icon><samp>Supportive and uplifting community</samp></p>
+                <p className='flex gap-10 my-3 z-0'><ion-icon size="large" color="danger" name="home-outline"></ion-icon> <samp>	10 clubs nationwide and over 70 clubs across South East Asia</samp></p>
             </div>
             <div className='w-full '>
                 <form className="max-w-md mx-auto bg-white rounded-xl overflow-hidden md:max-w-2xl">

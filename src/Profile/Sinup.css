@@ -1,0 +1,15 @@
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.fitnessimgsinup {
+    
+    background-image: url("https://th.bing.com/th/id/R.9b1ede0e7679799c513596fa72c7260f?rik=u2g2NJ2XpjaYKw&riu=http%3a%2f%2fwww.hotelvictorybd.net%2fimages%2fgallery%2fgym%2fg1.jpg&ehk=drJXJ8IWgpy3vOt9jBoRHG95YEUGyK4m7%2fY0Fq60Z%2bE%3d&risl=&pid=ImgRaw&r=0");
+    width: 100%;
+    height: 140vh;
+    background-size: cover;
+    
+    overflow: hidden;
+}
